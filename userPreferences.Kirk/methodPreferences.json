@@ -1,0 +1,56 @@
+﻿{
+	"Sources/Methods/Text_parser.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-30T00:49:10.862Z"
+	},
+	"Sources/Methods/__test.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-12-30T16:35:54.968Z"
+	},
+	"Sources/Methods/Text_parser_const.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 107,
+		"lastSelectedLine": 107,
+		"folding": [
+			25,
+			39,
+			54,
+			56,
+			92,
+			94,
+			97,
+			101,
+			103,
+			108,
+			111,
+			113,
+			116,
+			120,
+			122,
+			130,
+			133,
+			137,
+			142,
+			151,
+			155,
+			160,
+			165,
+			170,
+			176,
+			181
+		],
+		"bookmarks": [],
+		"stamp": "2019-12-30T17:10:41.960Z"
+	}
+}

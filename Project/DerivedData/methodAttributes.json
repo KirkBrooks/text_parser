@@ -1,0 +1,16 @@
+﻿{
+	"methods": {
+		"__test": {
+			"timeStamp": "2019-12-30T16:35:54.968Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"Text_parser_const": {
+			"timeStamp": "2019-12-30T17:10:41.960Z"
+		},
+		"Text_parser": {
+			"timeStamp": "2019-12-30T00:49:10.862Z"
+		}
+	}
+}
